@@ -1,0 +1,6 @@
+First line of code
+<<<<<<< HEAD
+Can I even do a change
+=======
+Second line of code
+>>>>>>> af024b2981dc81751fef9da06791ea1ea184540b
